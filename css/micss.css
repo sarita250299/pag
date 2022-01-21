@@ -1,0 +1,46 @@
+body{
+	background-color: #1A5276;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-family: didot;
+
+}
+h2{
+	text-align: center;
+	color: #59D7FB;
+	font-family: didot;
+
+}
+h3{
+	text-align: center;
+	color: rgb(0, 0, 0);
+	font-family: fantasy;
+	font
+
+}
+.titulo {
+	font-size: 45px;
+	color: aqua;
+}
+.centrado{
+		    margin:10px auto;
+		    display:block;
+}
+.buap{
+	font-size: 45px;
+	text-align: center;
+}
+.texto{
+	font-size: 15px;
+	text-align: center;
+	color: white;
+}
+footer{
+	background-color: #43D3FD;
+	font-size: 15px;
+	font-family: Arial;
+	color: white;
+	text-align: center;
+}
